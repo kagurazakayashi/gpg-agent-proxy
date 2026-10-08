@@ -1,0 +1,7 @@
+# build output
+/gpg-agent-proxy.exe
+*.log
+
+# local agent instructions (never committed)
+AGENTS.md
+MEMORY.md
